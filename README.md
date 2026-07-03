@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # Hi 👋 I'm Rakshita
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 - 🔭 I’m currently working on frontend projects using HTML, CSS, JavaScript  
 - 🌱 I’m learning React and backend development  
 - 🎯 Goal: Become a full-stack developer  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshita872&show_icons=true&theme=tokyonight)
 
@@ -38,11 +38,11 @@
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rakshita&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=Rakshita&theme=darkhub)-->
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🕒 Stopwatch App
 A simple stopwatch built using HTML, CSS, and JavaScript.
