@@ -42,7 +42,7 @@
 
 ---
 
-# 📌 Featured Projects
+<!--# 📌 Featured Projects
 
 ### 🕒 Stopwatch App
 A simple stopwatch built using HTML, CSS, and JavaScript.
@@ -50,7 +50,7 @@ A simple stopwatch built using HTML, CSS, and JavaScript.
 👉 Features:
 - Start / Stop / Reset
 - Lap recording
-- Clean UI
+- Clean UI-->
 
 ---
 
